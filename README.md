@@ -20,8 +20,9 @@ Or install it yourself as:
     $ gem install nayelawick_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+PortfolioWebsiteViewTool::Renderer.copyright 'Nayela Wickramasuriya', 'All rights reserved'
+```
 
 ## Development
 
